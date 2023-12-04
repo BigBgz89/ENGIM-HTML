@@ -1,0 +1,33 @@
+:root {
+    --bg-nav: #5f5fa8;
+
+}
+nav {
+    background-color: var(--bg-nav)
+}
+
+main {
+    background-color: #ffa500;
+}
+aside {
+    background-color: #8f10af;
+}
+
+.primo {
+    background-color: chartreuse;
+    width: 200px;
+    height: 100px;
+}
+/*selettore classe */
+.secondo {
+    background-color: cornsilk;
+    width: 200px;
+    height: 100px;
+
+}
+.terzo {
+    background-color: darkgoldenrod;
+}
+div {
+    background-color: violet;
+}
